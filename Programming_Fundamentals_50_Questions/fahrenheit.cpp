@@ -1,3 +1,5 @@
+// What is the Fahrenheit value of 0°C?
+
 #include <iostream>
 using namespace std;
 
